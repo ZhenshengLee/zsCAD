@@ -1,0 +1,6 @@
+OldVersions/
+*.bak
+导入的零部件/
+inventor/test/
+PowerTrans_SAT_Log.msg
+*.err
